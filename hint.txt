@@ -1,0 +1,4 @@
+git add hint.txt
+git commit -m "hint"
+git push origin master
+synchronize git pull
